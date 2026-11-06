@@ -1,0 +1,20 @@
+# Local/browser exports and downloaded page bundles
+outputs/
+*_files/
+*.html
+*.htm
+
+# Local environment and caches
+.DS_Store
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Temporary files
+*.tmp
+*.swp
